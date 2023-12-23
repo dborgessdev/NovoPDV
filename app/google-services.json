@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "633293890742",
+    "firebase_url": "https://funcionariosfb-28d8d-default-rtdb.firebaseio.com",
+    "project_id": "funcionariosfb-28d8d",
+    "storage_bucket": "funcionariosfb-28d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633293890742:android:39dd86598484f398313217",
+        "android_client_info": {
+          "package_name": "com.example.javafb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGAq7CQLSS8usZxaJVIzr2k7WXS1qxRY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
